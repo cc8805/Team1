@@ -2,7 +2,3 @@
 .project
 .classpath
 .settings/
-
-#java
-target/
-bin/
